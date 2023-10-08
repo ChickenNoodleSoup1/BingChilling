@@ -1,5 +1,5 @@
-### a456pur
-👋 hello! 
+### ˗ˏˋ ❀ astralogical ❀  ´ˎ˗
+👋 hello there!
 <br>
 <br>
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=a456pur&show_icons=true&count_private=true&theme=dark)
@@ -12,6 +12,6 @@
 - **tools:** visual studio code, github, cloudflare
 
 ## 📫 contact me
-- **discord:** @a456pur
+- **discord (most active):** @a456pur
 - **twitter:** [@a456pur](https://twitter.com/a456pur)
 
