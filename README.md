@@ -12,6 +12,6 @@
 - **tools:** visual studio code, github, cloudflare
 
 ## 📫 contact me
-- **discord (most active):** @a456pur
+- **discord (most active):** [@a456pur](https://discord.com/users/510677660775743500)
 - **twitter:** [@a456pur](https://twitter.com/a456pur)
 
