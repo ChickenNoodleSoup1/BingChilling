@@ -1,5 +1,5 @@
 ### ˗ˏˋ ❀ astralogical ❀  ´ˎ˗
-👋 hello! i'm a freelance developer, more known for making seraph :) i contribute to other websites occasionally, amd i use github to open source and share my cose
+👋 hello! i'm a freelance developer, more known for making seraph :) i contribute to other websites occasionally, and i use github to open source and share my code
 <br>
 <br>
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=a456pur&show_icons=true&count_private=true&theme=dark)
